@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "blogTheme"
+summarylength = 25
+
+[Params]
+    pageSize = 6
+
+
+[markup.goldmark.renderer]
+    unsafe = true # Allow HTML in md files
+
+[markup]
+    [markup.tableOfContents]
+        endLevel = 4
+        ordered = false
+        startLevel = 1
+

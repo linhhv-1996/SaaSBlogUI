@@ -1415,7 +1415,7 @@ span.date.mar-le {
   font-size: 28px;
   line-height: normal;
   text-transform: uppercase;
-  color: #1f2384;
+  /* color: #1f2384; */
 }
 .latest-posts .others .post a.title:hover {
   color: #111;
@@ -1523,7 +1523,7 @@ span.date.mar-le {
   font-size: 36px;
   line-height: normal;
   text-transform: uppercase;
-  color: #1f2384;
+  /* color: #1f2384; */
   font-weight: 400;
   text-decoration: none;
 }

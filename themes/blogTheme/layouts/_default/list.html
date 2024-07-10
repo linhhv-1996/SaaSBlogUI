@@ -4,12 +4,22 @@
   <div class="archive latest-posts">
     <div class="container">
       <div class="desc-imp">
-        <h1 class="page-title">Blog </h1>
+        <h1 class="page-title fit-content">Blog </h1>
+        <span>Articles on SaaS, AI, Marketing, SEO, Writing, and Blogging. </span>
       </div>
+
+
       <div class="allp clear">
+        {{ $pageSize := site.Params.pageSize }}
+        {{ $pages := where site.RegularPages "Type" "blog" }}
+        {{ $paginator := .Paginate $pages.ByTitle $pageSize }}
+        {{ $cPage := $paginator.PageNumber }}
+        {{ $after := mul (sub $cPage 1 ) $pageSize }}
+        {{ $skipArticleTitle := "" }}
 
         <div class="main left">
-          {{ range first 1 (where site.RegularPages "Type" "blog") }}
+          {{ range after $after (where site.RegularPages "Type" "blog") | first 1 }}
+          {{ $skipArticleTitle = .Title }}
           <a href="{{ .Permalink }}" class="title">
             <img width="1600" height="1000"
               src="{{ .Params.banner }}"
@@ -53,13 +63,11 @@
         </div>
       </div>
 
-
       <div class="otherp clear">
-        {{ $pageSize := site.Params.pageSize }}
-        {{ $pages := where site.RegularPages "Type" "blog" | after 1 }}
-        {{ $paginator := .Paginate $pages.ByTitle $pageSize }}
         {{ range $paginator.Pages }}
-
+        {{ if eq $skipArticleTitle .Title }}
+        {{ continue }}
+        {{ end }}
         <div class="main-con" style="height: 381.5px;">
           <h2 style="height: 86px;"><a
               href="{{ .Permalink }}"
@@ -78,37 +86,7 @@
     </div>
   </div>
 
-  <div class="before-foot bg-red">
-    <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-      <polygon fill="white" points="0,0 0,100 100,30 100,0"></polygon>
-    </svg>
-    <div class="container">
-      <div class="illus"
-        style="background-image: url(/images/hero-illustration.png);">
-      </div>
-      <div class="info clear">
-        <div class="devices">
-          <img src="/images/tablet.png" alt="BlogTyrant on Tablet and Mobile">
-        </div>
-        <div class="middle">
-          <div class="main-suc">
-            Free Ebook Guide
-          </div>
-          <div class="suc">Ultimate Blogging Toolkit + Bonuses</div>
-          <p>Join our 30,000+ email subscribers for blog updates and get instant access to a
-            10,000-word guide on how to start a blog and build a sustainable business using keyword
-            research, Google traffic, and a lot of tested strategies. Let us help you build a blog
-            to support your family's income and help the community while you're at it!</p>
-          <div class="before-foot-optin no-input clear">
-            <a rel="noopener noreferrer"
-              href="https://app.monstercampaigns.com/c/gmjmzbq2okv0vkhj6zpp/" target="_blank"
-              class="arrow-btn"><span>Sign Up and Get EBook</span></a>
-            <div class="mob-dev"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  
 </div><!-- #content -->
 
 {{ end }}

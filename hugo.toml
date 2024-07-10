@@ -5,7 +5,7 @@ theme = "blogTheme"
 summarylength = 25
 
 [Params]
-    pageSize = 6
+    pageSize = 5
 
 
 [markup.goldmark.renderer]

@@ -659,7 +659,8 @@ ul.is-style-default ul {
 .allp .illus {
   margin: -30px 0 0 -20px;
   width: calc(100% + 40px);
-  height: 400px;
+  /* height: 400px; */
+  height: 350px;
   position: relative;
   top: 0 !important;
 }
@@ -1046,11 +1047,11 @@ span.date.mar-le {
 .after-head .illus {
   right: -131px;
   top: 0;
-  max-width: 772px;
+  max-width: 675px;
 }
 .archive .after-head .illus {
   top: 356px;
-  background-size: 179%;
+  background-size: 100%;
   background-position: center bottom;
   max-width: 641px;
   right: 0;
@@ -1375,6 +1376,7 @@ span.date.mar-le {
 .latest-posts .others {
   width: 350px;
   margin: 0 0 0 30px;
+  margin-bottom: 20px !important;
 }
 .latest-posts .others.reg {
   width: 100%;
@@ -1386,6 +1388,7 @@ span.date.mar-le {
   box-sizing: border-box;
   padding: 42px 48px 42px 48px;
   margin-bottom: 20px;
+  transition: all .4s;
 }
 .latest-posts .others.reg .post {
   width: 32%;
@@ -1401,7 +1404,9 @@ span.date.mar-le {
   margin: 0 0 20px;
 }
 .latest-posts .others .post:hover {
-  box-shadow: 0 20px 60px rgba(48, 24, 9, 0.1);
+  /* box-shadow: 6px 6px 14px rgb(171 171 171); */
+    scale: 1.05;
+    transition: all .4s;
 }
 .latest-posts .others .post a.title {
   font-weight: 400;
@@ -1451,11 +1456,11 @@ span.date.mar-le {
 }
 .topics .topic-list .sub:nth-child(2n + 1) {
   float: left;
-  margin: 0 1.5% 5% 0;
+  margin: 0 1.5% 3% 0;
 }
 .topics .topic-list .sub:nth-child(2n) {
   float: right;
-  margin: 0 0 5% 1.5%;
+  margin: 0 0 3% 1.5%;
 }
 .topic-list .exc {
   font-style: italic;
@@ -2654,10 +2659,10 @@ select#subscribe-reloaded {
   display: none;
 }
 .site-header .ready-to a {
-  border: 1px solid #1f2384;
+  border: 1px solid #212121;
   margin: -8px 0 0 0;
   display: inline-block;
-  background-color: #1f2384;
+  background-color: #212121;
   font-family: alternate-gothic-no-1-d, sans-serif;
   font-size: 18px;
   line-height: 11px;
@@ -6606,6 +6611,7 @@ ul.is-style-checkmark-list li {
     list-style: none;
     align-items: center;
     justify-content: center;
+    margin-bottom: 60px;
 }
 
 .pagination li a {
@@ -6666,4 +6672,17 @@ ul.is-style-checkmark-list li {
 
 #TableOfContents ul li ul li ul li ul {
   margin-left: 10px;
+}
+
+.post-con .post-body {
+  position: relative;
+  z-index: 99;
+}
+
+#footer {
+  border-top: 1px solid #c8c8c8;
+}
+.fit-content {
+  width: fit-content !important;
+  margin-right: 8px;
 }

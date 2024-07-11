@@ -2382,8 +2382,8 @@ select#subscribe-reloaded {
 .post-con blockquote,
 .post-con blockquote p,
 .post-con blockquote p strong {
-  font-size: 18px;
-  line-height: 19px;
+  font-size: 17px;
+  line-height: 30px;
   background: 0 0;
   background-color: transparent;
 }
@@ -4647,7 +4647,7 @@ i.fex {
   .post-con blockquote p,
   .post-con blockquote p strong {
     font-size: 16px !important;
-    line-height: 19px !important;
+    line-height: 26px !important;
   }
   .post-con blockquote {
     padding-left: 20px;

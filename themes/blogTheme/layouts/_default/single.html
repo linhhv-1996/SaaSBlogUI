@@ -51,28 +51,35 @@
     </div>
   </div>
 
+  {{- range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) -}}
+        {{- $.Scratch.Set "has_related" true -}}
+  {{- end -}}
+  {{ if $.Scratch.Get "has_related" }}
+
   <div class="latest-posts">
     <div class="layy"></div>
     <div class="container">
       <div class="desc-imp">
         <p class="di-title">
           You might also like... </p>
-
       </div>
+
       <div class="allp clear">
-        <div class="others reg">
-          {{ $related := .Site.RegularPages.Related . | first 3 }}
-          {{ with $related }}
-          {{ range . }}
-          <div class="post" style="height: 223.5px;">
+        <div class="others reg" id="relatedPost">
+          {{ range first 3 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+          <div class="post">
             <div class="di-title"><a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a></div>
           </div>
           {{ end }}
-          {{ end }}
+         
         </div>
       </div>
+
     </div>
   </div>
+  {{ else }}
+    <br>
+  {{ end }}
 
   
 </div><!-- #content -->

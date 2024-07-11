@@ -3,6 +3,7 @@ title = '7 Best Wordpress Advertising Plugins For Your Blog Profits In 2024'
 date = 2023-02-15T10:00:00-07:00
 draft = false
 banner = "/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png"
+tags = ["SaaS", "Startup", "AI"]
 +++
 <img width="100%" src="/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png" class="feat-img wp-post-image" alt="" decoding="async" fetchpriority="high" title="">
 

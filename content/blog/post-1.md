@@ -3,8 +3,8 @@ title = 'How To Start A Vlog Like A Pro And Make Money In 2024: Your 9-step Guid
 date = 2023-01-15T09:00:00-07:00
 draft = false
 banner = "/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png"
+tags = ["SaaS", "Startup", "AI"]
 +++
-
 
 <img width="100%" src="/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png" class="feat-img wp-post-image" alt="" decoding="async" fetchpriority="high" title="">
 

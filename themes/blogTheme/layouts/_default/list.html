@@ -11,8 +11,8 @@
 
       <div class="allp clear">
         {{ $pageSize := site.Params.pageSize }}
-        {{ $pages := where site.RegularPages "Type" "blog" }}
-        {{ $paginator := .Paginate $pages.ByTitle $pageSize }}
+        {{ $pages := (where site.RegularPages "Type" "blog") }}
+        {{ $paginator := .Paginate $pages $pageSize }}
         {{ $cPage := $paginator.PageNumber }}
         {{ $after := mul (sub $cPage 1 ) $pageSize }}
         {{ $skipArticleTitle := "" }}

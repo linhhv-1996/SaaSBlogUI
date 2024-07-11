@@ -1,8 +1,7 @@
 +++
-title = '103+ BEGINNER BLOGGING TIPS TO JUMPSTART YOUR SITE IN 2024'
+title = '103+ Beginner Blogging Tips To Jumpstart Your Site In 2024'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
 banner = "/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png"
 +++
 

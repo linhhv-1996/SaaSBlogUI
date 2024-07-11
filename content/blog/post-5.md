@@ -1,8 +1,7 @@
 +++
-title = 'THE SIMPLE DIFFERENCE BETWEEN BLOG AND VLOG THAT YOU NEED TO KNOW'
+title = 'The Simple Difference Between Blog And Vlog That You Need To Know'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
 banner = "/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png"
 +++
 

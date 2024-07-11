@@ -1,12 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CloudCashflow'
 theme = "blogTheme"
 summarylength = 25
+enableRobotsTXT = true
+
+
+[permalinks]
+blog = "/:year/:title/"
 
 [Params]
     pageSize = 5
-
+    Description = "Want to start a successful SaaS business? Discover innovative SaaS and micro SaaS ideas to launch your next profitable venture."
+    Keyword = "saas, saas builder, saas ideas, no-code saas, micro-saas, micro saas, micro-sass ideas, micro saas companies, b2b saas ideas, startup apps ideas"
 
 [markup.goldmark.renderer]
     unsafe = true # Allow HTML in md files
@@ -16,4 +22,3 @@ summarylength = 25
         endLevel = 4
         ordered = false
         startLevel = 1
-

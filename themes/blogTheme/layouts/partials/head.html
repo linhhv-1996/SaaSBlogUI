@@ -1,12 +1,30 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="preload" as="font" href="/fonts/icons.woff2" type="font/woff2">
+<title>
+    {{- if .IsHome -}}
+      Build a Successful SaaS | {{ .Site.Title }}
+    {{- else if .Params.hide_site_title -}}
+      {{ .Page.Title }}
+    {{- else if .Page.Title -}}
+      {{ .Page.Title }} | {{ .Site.Title }}
+    {{- else -}}
+      {{ .Site.Title }}
+    {{- end -}}
+</title> 
 
+<link rel="canonical" href="{{ .Permalink }}" />
+<meta name="keywords" content="{{ .Site.Params.Keyword }}" />
+<meta name="description" content="{{ if .Summary }} {{ .Summary }} {{ else }} {{ .Site.Params.Description }} {{ end }}" /> 
+
+
+<link rel="preload" as="font" href="/fonts/icons.woff2" type="font/woff2">
 <link rel="stylesheet" href="/css/theme_styles.min.css" type="text/css" media="all">
 <script type="text/javascript" src="/js/jquery.min.js" id="jquery-core-js"></script>
 <script type="text/javascript" src="/js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
 <link rel="stylesheet" href="/css/css2">
+
+<link rel="icon" type="image/x-icon" href="/images/favicon-32x32.png">
 
 <link rel="stylesheet" href="/css/wpforms-full.min.css" type="text/css" media="all">
 

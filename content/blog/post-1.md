@@ -1,8 +1,7 @@
 +++
-title = 'HOW TO START A VLOG LIKE A PRO AND MAKE MONEY IN 2024: YOUR 9-STEP GUIDE'
+title = 'How To Start A Vlog Like A Pro And Make Money In 2024: Your 9-step Guide'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
 banner = "/images/blogs/post-2/how-to-start-vlogging-and-make-money-710x400.png"
 +++
 

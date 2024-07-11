@@ -1,5 +1,5 @@
 /* global grecaptcha,jQuery, site_vars */
-var process_form, after_ajax_dom, after_ajax_error_alert, onsolveCallbackBlogTyrant, gen_scr, gen_scr_req;
+var process_form, after_ajax_dom, after_ajax_error_alert, onsolveCallbackCloudCashflow, gen_scr, gen_scr_req;
 jQuery(document).ready(function($){
     var adjustTwoColumnHeight = function($elem, childrenElems) {
         childrenElems = childrenElems || [''];
@@ -155,7 +155,7 @@ jQuery(document).ready(function($){
 				event.preventDefault();
 				var tweetedLink = window.location.href;
 				var tweetSnippet = $('blockquote.tweet p').data('tweet');
-				window.open("http://twitter.com/intent/tweet?url=" + tweetedLink + "&text=" + tweetSnippet + "&via=blogtyrant&", "twitterwindow", "height=450, width=550, toolbar=0, location=0, menubar=0, directories=0, scrollbars=0");
+				window.open("http://twitter.com/intent/tweet?url=" + tweetedLink + "&text=" + tweetSnippet + "&via=CloudCashflow&", "twitterwindow", "height=450, width=550, toolbar=0, location=0, menubar=0, directories=0, scrollbars=0");
 		});
 
 		/** Adjust the H2, H3 tags in post-content to support numbered headings */
@@ -350,14 +350,14 @@ jQuery(document).ready(function($){
                 alert('We are having some unexpected technical difficulties. Please reload the page and try again.');
             };
 
-            onsolveCallbackBlogTyrant = function( g_recaptcha_response ) {
+            onsolveCallbackCloudCashflow = function( g_recaptcha_response ) {
                 process_form( g_recaptcha_response );
             };
 
-            window.onloadCallbackBlogTyrant = function() {
+            window.onloadCallbackCloudCashflow = function() {
                 grecaptcha.render( 'g_recaptcha', {
                     'sitekey' : '6LcpX6kUAAAAAKDN5icukI_rvZ8lRtIMD08UNTkW',
-                    'callback' : onsolveCallbackBlogTyrant
+                    'callback' : onsolveCallbackCloudCashflow
                 } );
             };
 

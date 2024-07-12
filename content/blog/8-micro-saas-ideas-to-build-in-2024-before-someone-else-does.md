@@ -2,7 +2,7 @@
 title = '8 Micro SaaS Ideas To Build in 2024 Before Someone Else Does'
 date = 2024-06-19T09:00:00-07:00
 draft = false
-banner = 'images/blogs/8-micro-saas-ideas-to-build-in-2024-before-someone-else-does/1.webp'
+banner = '/images/blogs/8-micro-saas-ideas-to-build-in-2024-before-someone-else-does/1.webp'
 tags = ["SaaS", "Startup", "AI"]
 +++
 

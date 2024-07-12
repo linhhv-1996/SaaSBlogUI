@@ -623,8 +623,8 @@ ul.is-style-default ul {
   text-align: center;
 }
 .feat .ft-title {
-  vertical-align: middle;
-  display: inline-block;
+  /* vertical-align: middle; */
+  display: block;
   font-family: alternate-gothic-no-1-d, sans-serif;
   font-size: 16px;
   line-height: normal;
@@ -955,10 +955,10 @@ span.date.mar-le {
   font-size: 72px;
   line-height: 83px;
   text-transform: uppercase;
-  color: #111;
+  color: #fff;
 }
 .after-head .middle .main-suc:before {
-  background: #111;
+  background: #fff;
   content: "";
   display: block;
   position: absolute;
@@ -2397,7 +2397,7 @@ select#subscribe-reloaded {
   line-height: 20px;
   color: #fff;
   margin: 0 8%;
-  padding: 40px 0 85px;
+  padding: 40px 0 40px;
 }
 #footer .container {
   padding-bottom: 50px;

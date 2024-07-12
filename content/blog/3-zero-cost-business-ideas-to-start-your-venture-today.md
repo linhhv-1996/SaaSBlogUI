@@ -77,8 +77,6 @@ Now, if you're thinking of starting an agency, once you get the basics right, th
 
 And the best tool set to use for this is a combination between Airtable as a database, Softer to build a front end, and then have some automations made through [Make](https://www.make.com/en/register?pc=lindane).
 
-[***Try Make***](https://www.make.com/en/register?pc=lindane)
-
 #### Idea 2: Building a Newsletter
 
 Now this second idea is what allowed Sam Parr to sell his company for $30M. It's called the Hustle. And what is it? It's just a newsletter. And then he taught his buddy Shawn how to do this, who then sold this company for $20M. 
@@ -101,7 +99,7 @@ Example, you have a section about success stories built with no code and AI. You
 
 **And that's question four: What are the actual tools?** 
 
-In this case, there's only really one tool that I use for my newsletter. It's called [Beehive](https://www.beehiiv.com?via=hoang-van-linh). It's really cool because it's kind of an all in one tool.
+In this case, there's only really one tool that I use for my newsletter. It's called [Beehiiv](https://www.beehiiv.com?via=hoang-van-linh). It's really cool because it's kind of an all in one tool.
 
 And so what it allows me to do is to create a template for my weekly newsletter, then to be able to schedule all of my newsletters. Then they have some cool features that allow you to actually grow your audience, even though you're going to have to also go out and get some subscribers. And then they even have a network of ad partners that allow you to monetize it.
 
@@ -109,9 +107,7 @@ And so what it allows me to do is to create a template for my weekly newsletter,
 
 For this, you can create valuable content in the places where these people actually hang out.
 
-Your audience might be on TikTok, it could be on Instagram, it could be in Facebook. Another thing I'll probably try out is to pay Beehive to get myself placed in other newsletters too. It'll be an experiment.
-
-[***Try Beehive***](https://www.beehiiv.com?via=hoang-van-linh)
+Your audience might be on TikTok, it could be on Instagram, it could be in Facebook. Another thing I'll probably try out is to pay Beehiiv to get myself placed in other newsletters too. It'll be an experiment.
 
 If you don't want to launch a newsletter and don't want to learn a new skill, then you could simply make money by selling the existing skills and knowledge that you currently have. And that's exactly what we're going to be talking about in this next idea.
 

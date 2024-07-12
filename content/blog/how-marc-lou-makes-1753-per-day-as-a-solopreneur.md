@@ -8,15 +8,7 @@ tags = ["SaaS", "Startup", "AI"]
 
 <img width="100%" src="/images/blogs/how-marc-lou-makes-1753-per-day-as-a-solopreneur/1.webp" class="feat-img wp-post-image" alt="" decoding="async" fetchpriority="high" title="">
 
-In this article, I\'ll summarize  how Marc Lou is making $1,500 a day.
-
-After spending hours in his YouTube channel, Twitter account, business websites, newsletter and interviews, everything I\'ve seen from how he gets killer ideas, how he builds startups and days, how he gets free visitors, how he actually makes his money, and the truth he's not telling us. Massive admiration for this guy. 
-
-So let's get into it.
-
-For those who are new, my name is Lin Dane, an indie hacker. My 3 Google Play apps bring in $8K in MRR. Currently, I'm building a Micro SaaS for App Tracking via a Telegram bot.
-
-You can join my newsletter down below if you want to be part of the journey. 
+After spending hours in his YouTube channel, Twitter account, business websites, newsletter and interviews, everything I\'ve seen from how he gets killer ideas, how he builds startups and days, how he gets free visitors, how he actually makes his money, and the truth he's not telling us. Massive admiration for this guy. So let's get into it.
 
 {{< table_of_contents >}}
 

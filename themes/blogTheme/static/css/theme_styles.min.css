@@ -681,7 +681,8 @@ ul.is-style-default ul {
   display: inline-block;
   padding: 8px 14px;
   margin: 0 4px;
-  background: #eae5e2;
+  background: #fff;
+  border-radius: 4px;
 }
 .comments-link {
   padding: 0 0 0 28px;
@@ -1438,7 +1439,7 @@ span.date.mar-le {
   font-size: 36px;
   line-height: normal;
   text-transform: uppercase;
-  color: #1f2384;
+  color: #000;
 }
 .topic-list .sub h3 a:hover {
   color: #000;
@@ -2394,7 +2395,7 @@ select#subscribe-reloaded {
   border-top: 1px solid #eae5e2;
   font-size: 12px;
   line-height: 20px;
-  color: #555;
+  color: #fff;
   margin: 0 8%;
   padding: 40px 0 85px;
 }
@@ -2409,7 +2410,7 @@ select#subscribe-reloaded {
 #footer .mnu h3 {
   font-size: 14px;
   line-height: 26px;
-  color: #111;
+  color: #fff;
   margin: 0 0 24px 0;
 }
 #footer .mnu .links a {
@@ -2417,12 +2418,12 @@ select#subscribe-reloaded {
   font-size: 14px;
   line-height: 26px;
   text-decoration-line: underline;
-  color: #555;
+  color: #fff;
   margin: 0 0 8px 0;
 }
 #footer .mnu .links a:hover {
   text-decoration: none;
-  color: #111;
+  color: #c61e2f;
 }
 #footer .os .links a {
   display: inline-block;
@@ -2447,7 +2448,7 @@ select#subscribe-reloaded {
 #footer .abt .desc {
   font-size: 14px;
   line-height: 26px;
-  color: #111;
+  color: #fff;
   margin-top: 30px;
 }
 .mob-dev {
@@ -6690,6 +6691,7 @@ ul.is-style-checkmark-list li {
 
 #footer {
   border-top: 1px solid #e9e9e9;
+  background-color: #000;
 }
 .fit-content {
   width: fit-content !important;
@@ -6710,4 +6712,13 @@ ul.is-style-checkmark-list li {
 .page-404 img {
   max-width: 100%;
 }
+
+.disclaimer {
+  background-color: #000;
+}
+
+.social b {
+  color: #fff;
+}
+
 

@@ -2,7 +2,7 @@ baseURL = 'https://saasblogui.onrender.com/'
 languageCode = 'en-us'
 title = 'CloudCashflow'
 theme = "blogTheme"
-summarylength = 25
+summarylength = 20
 enableRobotsTXT = true
 
 

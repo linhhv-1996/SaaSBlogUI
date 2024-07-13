@@ -2,19 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2024-07-09T09:09:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-07-09T09:09:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/saas/</loc>
-    <lastmod>2024-07-09T09:09:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/startup/</loc>
-    <lastmod>2024-07-09T09:09:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-09T09:09:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/top-10-b2b-saas-examples-innovative-software-solutions-for-2024/</loc>
@@ -85,7 +73,5 @@
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

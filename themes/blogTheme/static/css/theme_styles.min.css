@@ -6745,7 +6745,7 @@ ul.is-style-checkmark-list li {
 }
 
 .feat img {
-  max-height: 24px;
+  max-height: 20px;
 }
 
 @media screen and (max-width: 767px) {

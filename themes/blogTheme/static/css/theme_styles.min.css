@@ -1046,7 +1046,7 @@ span.date.mar-le {
   padding: 25px 35px 0 0;
 }
 .after-head .illus {
-  right: -131px;
+  right: -250px;
   top: 0;
   max-width: 675px;
 }
@@ -6747,4 +6747,11 @@ ul.is-style-checkmark-list li {
 .feat img {
   max-height: 24px;
 }
+
+@media screen and (max-width: 767px) {
+  .after-head .illus {
+    opacity: 0.35 !important; 
+  }
+}
+
 

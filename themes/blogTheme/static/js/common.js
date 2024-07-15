@@ -398,12 +398,12 @@ jQuery(document).ready(function($){
 
     var $illus = $('.illus');
     if ($illus.length > 0) {
-        $illus.css( 'background-image', 'url("/images/hero-illustration.png")' );
+        $illus.css( 'background-image', 'url("/images/business-support-concept-illustration.webp")' );
     }
 
     var $illusT = $('.toolspg .after-head .illus');
     if ($illusT.length > 0) {
-        $illusT.css( 'background-image', 'url("/images/illustration-tool.png")' );
+        $illusT.css( 'background-image', 'url("/images/business-support-concept-illustration.webp")' );
     }
 
 }).bind(window.jQuery);

@@ -72,7 +72,11 @@ To me, it feels like there's an obvious need here to interpret qualitative custo
 
 The submitter says:
 
-> I work for an Internet service provider in systems engineering. We currently use an in house wiki to keep track of approximately 30 ssl certificates, including where they're purchased from, what servers they're used on, and when they expire? 30 certificates may not sound bad until you factor in that. About ten of them are wildcards and therefore used on many services or servers. These 30 certs cover a variety of services like LDAP, HTTP, Mail, and a myriad of other functions, probably to the tune of 100 to 200 actual deployments. It would be nice to have dedicated software to keep track of these and warn via email, SNMP, or some other mechanism at custom intervals that certificates need renewing. It'd be even better if this could be set to randomly poll the method used. It's really clever, LDAP, HTTPs, IMAP, etcetera and make sure the cert is good for that server or service. I have tried looking for solutions for this. Unfortunately most of the options are for enterprise only environments and only built for Windows IIS or only track HTTP. Currently we're manually solving this with a wiki, but it's cumbersome and prone to error. 
+> I work for an Internet service provider in systems engineering. We currently use an in house wiki to keep track of approximately 30 ssl certificates, including where they're purchased from, what servers they're used on, and when they expire? 30 certificates may not sound bad until you factor in that. About ten of them are wildcards and therefore used on many services or servers. 
+
+> These 30 certs cover a variety of services like LDAP, HTTP, Mail, and a myriad of other functions, probably to the tune of 100 to 200 actual deployments. It would be nice to have dedicated software to keep track of these and warn via email, SNMP, or some other mechanism at custom intervals that certificates need renewing. It'd be even better if this could be set to randomly poll the method used. It's really clever, LDAP, HTTPs, IMAP, etcetera and make sure the cert is good for that server or service. 
+
+> I have tried looking for solutions for this. Unfortunately most of the options are for enterprise only environments and only built for Windows IIS or only track HTTP. Currently we're manually solving this with a wiki, but it's cumbersome and prone to error. 
 
 This is a really interesting problem and I wonder, there have to be other people and businesses out there that have this.
 

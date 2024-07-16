@@ -1,0 +1,5 @@
+@media screen and (max-width: 767px) {
+    .after-head .illus {
+        background-image: url(/images/business-support-concept-illustration-sp.webp) !important;
+    }
+}

@@ -3,3 +3,4 @@ resources
 public/
 sandbox/
 git-do*
+.DS_Store

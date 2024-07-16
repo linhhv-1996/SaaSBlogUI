@@ -9,7 +9,7 @@ tags = ["SaaS", "Startup", "AI"]
 <img width="100%" src="/images/blogs/9-steps-to-launch-a-winning-saas-mvp-in-2024/1.webp" class="feat-img wp-post-image" alt="" decoding="async" fetchpriority="high" title="">
 
 
-Did you know that 99% of companies will use at least one SaaS solution by the end of 2024? If you're interested in finding out more, don't skip this video. Hey there, welcome back to our channel. Have you ever wondered about the lightest techniques for building a successful, minimal viable product? 
+Did you know that 99% of companies will use at least one SaaS solution by the end of 2024? If you're interested in finding out more, don't skip this post. Have you ever wondered about the lightest techniques for building a successful, minimal viable product? 
 
 In this post, you will be looking at the process of building a SaaS MVP.
 

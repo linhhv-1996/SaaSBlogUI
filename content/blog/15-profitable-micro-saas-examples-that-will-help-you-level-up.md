@@ -152,4 +152,4 @@ For our final micro saas here we have a product called [Thumbnail Test](https://
 
 You can test as many options as you want. And the founders started to see some significant growth when they got a shout out from a large YouTube channel called Think Media that talked about their tool here and they've served over 1000 plus channels. This looks like over 1.9 billion views measured. 
 
-So this is going to conclude the video here and we looked at 15 different micro SaaS examples. I hope you enjoyed the content.
+So this is going to conclude the post here and we looked at 15 different micro SaaS examples. I hope you enjoyed the content.

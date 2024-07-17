@@ -11,7 +11,7 @@ blog = "/:year/:title/"
 
 [Params]
     pageSize = 9
-    Description = "Want to start a successful SaaS business? Discover innovative SaaS and micro SaaS ideas to launch your next profitable venture."
+    Description = "Want to start a successful micro SaaS business? Discover innovative SaaS and micro SaaS ideas to launch your next profitable venture."
     Keyword = "saas, saas builder, saas ideas, no-code saas, micro-saas, micro saas, micro-sass ideas, micro saas companies, b2b saas ideas, startup apps ideas"
     images = ['/images/site-feature-image.webp']
     title = 'CloudCashflow'

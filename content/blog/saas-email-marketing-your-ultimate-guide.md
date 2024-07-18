@@ -22,7 +22,7 @@ The power of email in your marketing strategy cannot be understated. It has a po
 
 First up, I want to go over four key email categories that every SaaS company should consider incorporating into their strategy. Each of these categories serve a different purpose and together they cover the full customer journey from awareness all the way to retention. By understanding and effectively utilizing these four categories of emails, you can ensure that you're covering all bases and provide a holistic email experience for your audience.
 
-### Key #1. Product Emails
+### #1. Product Emails
 
 So first off, let's kick things off with the product emails. **The purpose of these ones are really simple, is to keep your customers up to date about your product's new features, updates and enhancements.**
 
@@ -30,39 +30,39 @@ But it's not just about informing them about what's going on, it's about showcas
 
 So here's a few ideas that you can think of. 
 
-#### Make your message clear and concise.
+#### Make your message clear and concise
 
 Highlight the benefits of the new feature and update how it makes your customer's life easier or their work more effective. 
 
-#### Make sure you use strong call to actions.
+#### Make sure you use strong call to actions
 
 Don't just let them know about that feature, invite them to try it out. Provide a link or a button or a CTA to try it. 
 
-#### Finally, make sure that you try and personalize it.
+#### Finally, make sure that you try and personalize it
 
 Make sure that each new feature is relevant to the segment that you're emailing in that group. Now remember, the goal of a product email is not just to inform, but it's to engage and encourage the customer to explore your product further. And if you can do this right, you can increase customer engagement and potentially more conversions to paid accounts. 
 
-### Key #2. Marketing Emails
+### #2. Marketing Emails
 
 These are perhaps what most people think of when they hear email marketing. **Their role is to promote your SaaS product, drive traffic to your website and of course, generate leads.** Marketing emails come in many shapes and sizes. They could be promotional campaigns announcing a sale or a special offer, or a newsletter, sharing news and updates about your company, or content driven emails providing valuable insights and information to your audience. Okay, so again, how do we make these marketing emails really hit that mark? 
 
 So I want to share a few tips on how that can happen. 
 
-#### First, focus on value.
+#### First, focus on value
 
 Whether you're promoting a product or sharing a blog post, make sure your audience can clearly see the value of what you're doing and offering. 
 
-#### Be concise and direct.
+#### Be concise and direct
 
 Don't make your audience sift through paragraphs of text to find out what you're actually trying to say. Get to your point quickly and clearly. 
 
-#### Finally, include a clear call to action.
+#### Finally, include a clear call to action
 
 Same as before, whether you want them to read a blog post, check out a bit of the product, or sign up to a webinar, make sure that the call to action and the next steps are very, very clear to the reader.
 
 These marketing emails can be super powerful in your SaaS marketing strategies. Use them wisely and you can increase your website traffic, generate more leads and strengthen the relationship between your business and your audience. 
 
-### Key #3. Sales Emails
+### #3. Sales Emails
 
 **These are the heavy lifters of your email marketing campaign, responsible for nurturing leads, converting prospects into customers and driving revenue for your business.** Sales emails are where you make your pitch, but it's crucial to remember that it isn't all about hard, hard selling. It's about addressing prospects pain points and showing how your solution and your SaaS product can help them overcome their challenges.
 
@@ -80,7 +80,7 @@ A prospect doesn't respond to your first email. Don't be discouraged. A well tim
 
 Remember, the goals of sales emails is to convert prospects into leads and or customers. It's all about demonstrating the value of your SaaS solution and showing your prospects why they should choose you over your competition. 
 
-### Key #4. Transactional emails
+### #4. Transactional emails
 
 Okay, last but definitely not least, we have transactional emails.
 
@@ -88,11 +88,10 @@ This category includes emails like order confirmations, receipts, account notifi
 
 So how can we make the most out of these types of emails? 
 
-#### Be relevant.
-
+#### Be relevant
 First up, it's about keeping it super relevant and timely. Transactional emails are expected and often anticipated, so make sure they deliver the information your customer is waiting for.
 
-#### Stay on brand.
+#### Stay on brand
 
 Even though these are transactional emails, they should still reflect your brand's voice. The design and everything about that reinforces your brand identity with every action that a user takes.
 
@@ -106,7 +105,7 @@ Lastly, using these emails to drive further engagement, a sub tool, product reco
 
 This process can really be broken down into several key steps, each crucial for an effective email marketing campaign. 
 
-### Set clear goals
+### #1. Set clear goals
 
 Okay, first up, very, very obvious. Setting clear, specific and measurable goals for your campaigns.
 
@@ -116,7 +115,7 @@ For example, instead of just increase conversions, your goal might be increased 
 
 Setting clear goals and aligning them with your overall business objectives gives you a roadmap to follow and a way to measure your success. Remember, successful journeys start with a destination in mind.
 
-### Select email software
+### #2. Select email software
 
 Once you've set your goals, the next step is to choose the right tool for the job, and that means selecting an email marketing software that suits your business needs. There's a ton of options out there from Mailchimp, ConvertKit ****and a ton more. But remember, it's not about choosing the most popular or most expensive tool or cheapest tool. It's about finding the one that fits the needs for you. When comparing different options, there's a few key factors to consider. Look at the automation capabilities of that software.
 
@@ -124,7 +123,7 @@ Does it allow you to set up automated sequences for lead nurturing onboards conv
 
 As the business grows, will that software be able to keep up and be affordable as you scale? Remember, choosing the right email marketing software is really crucial in this step. But at the same time, just get started. It's not too hard to migrate later on.
 
-### Growth the email list
+### #3. Growth the email list
 
 Now that you've got some clear goals and the right software, maybe not the right side of it, a piece of software, it's time to focus on growing that email list. After all, the success of your email marketing strategy depends on the size and quality of your subscriber base. There are several effective strategies to expand your email subscribers.
 
@@ -134,7 +133,7 @@ Use landing pages specifically designed to drive email signups in exchange for s
 
 Remember, growing your email list is not just about quantity, it's all about quality. You don't want a huge list that doesn't convert to anything. You want a list that is genuinely interested in the type of products that your SaaS business sells.
 
-### Segment email
+### #4. Segment email
 
 Once you've grown that email list, the next step is to segment it. And what does that mean? Well, it means about dividing your list into different groups or segmentations based on criteria such as demographics, behaviors, purchase history, or engagement level. The power of segmentation lies in its ability to help you deliver more personalized, relevant content to your subscribers.
 
@@ -142,7 +141,7 @@ Instead of sending the same emails to everybody on your list, you can create tar
 
 By creating effective email segments and delivering personalized content, you can significantly increase engagement, boost conversions, and create a better experience for your subscribers. Remember, in email marketing, one size fits all just does not cut it anymore.
 
-### Create engaging content
+### #5. Create engaging content
 
 Let's now talk about the content of those emails. After all, even the best email marketing strategy won't work. If your emails aren't compelling and engaging, your email should resonate with your target audience. It needs to provide value, whether that's in the form of useful information, industry insights, educational resources, product updates, or exclusive offers specifically for them. And let's not forget about the packaging, right? Start with an attention grabbing subject line. This is your first, and sometimes only chance to catch your subscribers eye. Make it count. Next comes your email copy. Keep it concise and compelling. You want to engage your reader, but also respect their time. Get to the point and make that point clear and engaging. Don't use big, fluffy emails.
 
@@ -150,7 +149,7 @@ And finally, include a clear call to action. Whether it's a read more, buy now, 
 
 Email content is a bit of an art, but with practice and testing you can create emails that not only get opened and read, but also drive action. 
 
-### Automate sequences
+### #6. Automate sequences
 
 Now, maybe you're looking to maximize the efficiency and results. Then automated email sequences are going to be your best friend. These are series of emails that automatically go out based specific triggers or on time intervals. There are several types of sequences you might consider. For instance, lead nurturing sequences can help you educate prospects about your SaaS product, build trust and ultimately guide them towards a purchase or a sign up for a paid account.
 
@@ -158,13 +157,11 @@ Then there's the user onboarding sequence, which is crucial for SaaS businesses.
 
 All these sequences are designed to deliver the right message at the right time, guiding your subscribers through the customer journey. And the best part about it is once you've set them up, they literally run on autopilot delivering consistent results. 
 
-### Improve analysis
+### #7. Improve analysis
 
-Finally, but obviously not the least important on the list is that you must analyze your email performance. Remember, marketing isn't a set and forget game. It's about constant process of learning, improving and optimizing. 
+Finally, but obviously not the least important on the list is that you must analyze your email performance. Remember, marketing isn't a set and forget game. It's about constant process of learning, improving and optimizing. There are several key metrics that you should be tracking. Obvious things like open rates will give you a great idea of how compelling your subject lines are. 
 
-There are several key metrics that you should be tracking. 
-
-Obvious things like open rates will give you a great idea of how compelling your subject lines are. Click through rates can tell you how engaging your content is and how good your call to actions are. 
+Click through rates can tell you how engaging your content is and how good your call to actions are. 
 
 Conversion rates could maybe indicate whether your emails are effectively driving desired actions.
 

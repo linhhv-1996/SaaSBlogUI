@@ -9,3 +9,28 @@
     right: 0;
     opacity: 0.75;
 }
+
+.post-body h4 {
+    margin: 20px 0 10px;
+}
+
+.div-also-read {
+    margin-bottom: 45px;
+}
+
+.div-also-read p {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.div-also-read ul {
+    margin-left: 0 !important;
+}
+
+.div-also-read ul li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+
+

@@ -33,7 +33,7 @@ So there you have it. There's your first ten customers.
 #### How We Go From 10 Customers Up To 50?
 Let's continue to leverage those first 20 beta users that you had. I suggest you create a referral program.
 
-You can use online tools like [Rewardful](https://www.rewardful.com/?via=lindane), [Tapfiliate](https://fas.st/t/RnY2zRFT) or [Tolt](https://tolt.io/?aff=lindane), all-in-one affiliate management software for SaaS, and they'll give you an affiliate link for each of your 20 beta users. 
+You can use online tools like <a rel="nofollow" href="https://www.rewardful.com/?via=lindane">Rewardful</a>, <a rel="nofollow" href="https://fas.st/t/RnY2zRFT">Tapfiliate</a> or <a rel="nofollow" href="https://tolt.io/?aff=lindane">Tolt</a>, all-in-one affiliate management software for SaaS, and they'll give you an affiliate link for each of your 20 beta users. 
 
 And you can say to your beta users, if you share this among your friends, colleagues, partners and get them to sign up to our platform, you'll earn cash in return. So if you pick the right 20 beta users that have a great network, this referral scheme can really blow up and you can really grow your user base like this.
 
@@ -86,11 +86,11 @@ So imagine you've got your 50 customers in there. Then they're going to start re
 ##### Start Your Own Webinar, Podcast or Newsletter
 My final piece of advice to push you to that 100 user limit is to start your own webinar series and or podcast. And the best way to turn that into customers quickly is to invite other influencers onto that podcast.
 
-You can use [Castos](https://castos.com/?via=linhdane), [RiversideFM](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=lindane) or [Podcastle](https://podcastle.ai/?ref=nwvmztm), these powerhouse platforms offer everything you need to create, polish, and publish your show like a pro. 
+You can use <a rel="nofollow" href="https://castos.com/?via=linhdane">Castos</a>, <a rel="nofollow" href="https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=lindane">RiversideFM</a> or <a rel="nofollow" href="https://podcastle.ai/?ref=nwvmztm">Podcastle</a>, these powerhouse platforms offer everything you need to create, polish, and publish your show like a pro. 
 
 So again, look at the network you've got. Look at those original 20 beta users and push it out even further than that. Who are the biggest speakers in your space? Who are the biggest speakers that are helping other people solve those problems and try and invite them onto the show. And the beauty of that is that when they're about to appear on the show, they can promote it to their network. They're going to say, hey everybody, I'm about to appear on this webinar. You should register here and you just piggyback again off of that audience, which is just a great way to build momentum. So there you have it.
 
-If you want to build your newsletter, try growing your audience with [Beehiiv](https://www.beehiiv.com?via=hoang-van-linh), a powerful newsletter platform designed to help creators thrive. This innovative tool makes it easy to build, manage, and expand your newsletter effortlessly.
+If you want to build your newsletter, try growing your audience with <a rel="nofollow" href="https://www.beehiiv.com?via=hoang-van-linh">Beehiiv</a>, a powerful newsletter platform designed to help creators thrive. This innovative tool makes it easy to build, manage, and expand your newsletter effortlessly.
 
 That's how you go from zero to 100 SaaS customers. 
 

@@ -71,13 +71,12 @@ But over the next twelve months, she was able to scale this platform up to $30,0
 
 **🛠Tools for Creating Startups Without Coding🛠**
 
-- [Make](https://www.make.com/en/register?pc=lindane): From tasks and workflows to apps and systems, build and automate anything in one powerful visual platform.
-- [Flutter Flow](https://app.flutterflow.io/create-account?referral_id=lpWsuoPGiNQVTEQjrB18hi79zy42): Browser-based drag and drop interface to visually build mobile or web apps without writing code.
-- [TypeForm](https://typeform.cello.so/UnAFUAOeBSy): Templates for quizzes, research, feedback, lead generation, and more. Personalized flows and seamless integrations with world-class user experience.
-- [ShipFast](https://shipfa.st/?via=lindane): Build your start up in days, not weeks.
-- [Versoly](https://versoly.com/?via=linhdane): The fastest way to build your pixel perfect website.
-- [Gravity Write](https://gravitywrite.getrewardful.com/): Create blogs, ad copies, emails, social media posts, images, and more in seconds.
-- [Bouncer](https://withlove.usebouncer.com/36jphrswxbgd): Increase your email marketing ROI. Land smoothly in your recipient’s inboxes.
+- <a rel="nofollow" href="https://www.make.com/en/register?pc=lindane">Make</a>: From tasks and workflows to apps and systems, build and automate anything in one powerful visual platform.
+- <a rel="nofollow" href="https://typeform.cello.so/UnAFUAOeBSy">TypeForm</a>: Templates for quizzes, research, feedback, lead generation, and more. Personalized flows and seamless integrations with world-class user experience.
+- <a rel="nofollow" href="https://shipfa.st/?via=lindane">ShipFast</a>: Build your start up in days, not weeks.
+- <a rel="nofollow" href="https://versoly.com/?via=linhdane">Versoly</a>: The fastest way to build your pixel perfect website.
+- <a rel="nofollow" href="https://gravitywrite.getrewardful.com/">Gravity Write</a>": Create blogs, ad copies, emails, social media posts, images, and more in seconds.
+- <a rel="nofollow" href="https://withlove.usebouncer.com/36jphrswxbgd">Bouncer</a>: Increase your email marketing ROI. Land smoothly in your recipient’s inboxes.
 
 
 #### Conclusion

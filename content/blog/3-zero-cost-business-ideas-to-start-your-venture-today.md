@@ -99,7 +99,7 @@ Example, you have a section about success stories built with no code and AI. You
 
 **And that's question four: What are the actual tools?** 
 
-In this case, there's only really one tool that I use for my newsletter. It's called [Beehiiv](https://www.beehiiv.com?via=hoang-van-linh). It's really cool because it's kind of an all in one tool.
+In this case, there's only really one tool that I use for my newsletter. It's called <a rel="nofollow" href="https://www.beehiiv.com?via=hoang-van-linh">Beehiiv</a>. It's really cool because it's kind of an all in one tool.
 
 And so what it allows me to do is to create a template for my weekly newsletter, then to be able to schedule all of my newsletters. Then they have some cool features that allow you to actually grow your audience, even though you're going to have to also go out and get some subscribers. And then they even have a network of ad partners that allow you to monetize it.
 

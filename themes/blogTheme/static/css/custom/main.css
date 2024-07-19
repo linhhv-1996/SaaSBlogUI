@@ -32,5 +32,9 @@
     margin-bottom: 5px;
 }
 
-
+.post-con blockquote {
+    border-left: 3px solid #5b5b5b;
+    padding-left: 20px;
+    margin-left: -20px;
+}
 

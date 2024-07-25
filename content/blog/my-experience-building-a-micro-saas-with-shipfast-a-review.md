@@ -68,5 +68,4 @@ For me, using a boilerplate was integral as I could use the already existing fea
 
 You can use any other boilerplate with similar features or build out your own and use that in the future. In the end its just a time saver and if you somewhat value your time then its economical to use a boilerplate like chip fast from Marc Lou, especially considering that you can reuse the boilerplate for future projects.
 
-[Get ShipFast](https://shipfa.st/?via=lindane)
-
+<a rel="nofollow" href="https://shipfa.st/?via=lindane">Get ShipFast</a>

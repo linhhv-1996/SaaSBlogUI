@@ -34,13 +34,13 @@ He finds killer ideas by scratching his own itches.
 
 An example is how he suffered paying stripe $1500 every month to generate invoices, so he built an invoice creator to solve this, and he's selling the solution for $49. 
 
-So you can imagine how this is a no brainer for anyone suffering this pain. Anyway, the golden goose of his ideas is [ShipFast](https://shipfa.st/?via=lindane), making him $120K a month purely profit, which represents more than 90% of his revenue.
+So you can imagine how this is a no brainer for anyone suffering this pain. Anyway, the golden goose of his ideas is <a rel="nofollow" href="https://shipfa.st/?via=lindane">ShipFast</a>, making him $120K a month purely profit, which represents more than 90% of his revenue.
 
 <img width="100%" src="/images/blogs/how-marc-lou-makes-1753-per-day-as-a-solopreneur/5.webp" class="feat-img wp-post-image" alt="" decoding="async" fetchpriority="high" title="">
 
 This solution is like stacking together all the tools he uses to launch new startups. 
 
-**Try ShipFast: [https://shipfa.st/](https://shipfa.st/?via=lindane)**
+**Try ShipFast:** <a rel="nofollow" href="https://shipfa.st/?via=lindane">shipfa.st</a>
 
 I do understand the huge problem he's solving, which is starting businesses in days instead of months. Again, one of the pains he suffered himself, he used to take months to ship products. He learned how to build super fast, and he packed this for others to benefit from his methods.
 
@@ -128,9 +128,9 @@ Like Bezos would say in your margin is my opportunity. I'd love to see how this 
 
 <img width="100%" src="/images/blogs/how-marc-lou-makes-1753-per-day-as-a-solopreneur/11.webp" class="feat-img wp-post-image" alt="" decoding="async" fetchpriority="high" title="">
 
-He was selling one of his products, [MakeLanding](https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9) for $39. Pay once, access forever. And then he tried $5 per month subscription and his sales just plumped.
+He was selling one of his products, <a rel="nofollow" href="https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9">MakeLanding</a> for $39. Pay once, access forever. And then he tried $5 per month subscription and his sales just plumped.
 
-**Get MakeLanding: [https://makelanding.ai](https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9)**
+**Get MakeLanding:** <a rel="nofollow" href="https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9">https://makelanding.ai</a>
 
 I think we're all just getting fed up with subscriptions. So here we can see how competition is actually great for the consumer, bringing us better products and better prices.
 
@@ -168,7 +168,6 @@ Hope he keeps on killing it and bringing tons of value to us.
 
 Let me know in the comments if you have any questions.
 
-Try ShipFast: [https://shipfa.st/](https://shipfa.st/?via=lindane)
+Try ShipFast: <a rel="nofollow" href="https://shipfa.st/?via=lindane">shipfa.st</a>
 
-Try MakeLanding: [https://makelanding.ai/](https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9)
-
+Try MakeLanding: <a rel="nofollow" href="https://makelanding.ai?via=mkmtuuhnn2pnotv52cl9">makelanding.ai</a>
